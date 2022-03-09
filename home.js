@@ -41,7 +41,7 @@ const english = {
     contactH1: 'Vanchit Bahujan Muslim Aaghadi',
     contactNumber: '022 2541122 9899585606/932228645',
     contactOffice: 'Central Office: Avedkar Bhavan, Bhokuldas Pasta Road, Dadar, Mumbai 400 028',
-    contactMumbai: 'Mumbai City Office: Shop c. 04 Ratlamwala Mission Sakli Road c. 3. Byculla (W), Mumbai-4OO COL',
+    contactMumbai: 'Mumbai City Office: Shop no. 04 Ratlamwala Mission, 3rd Sakli Street, Byculla (W), Mumbai-400008',
     contactSuburban: 'Mumbai Suburban Office: Office K10, Opposite Ajmeri Mosque, Anis Kampa Adheri Ghatkopar Link Road, Sakinaka, Mumbai - 400 072',
     billHead: 'BILL',
     billH1:'Paigambar Mohammed(saw) Bill',
